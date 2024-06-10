@@ -19,14 +19,14 @@ Preconfirmations are a mechanism that allows block proposers to commit to a bloc
 - [Value-Capturing Based Rollups with Preconfirmations](https://collective.flashbots.net/t/value-capturing-based-rollups-with-based-preconfirmations/2884) - A protocol which allows for based rollups to capture value generated from block building with preconfirmations.
 
 ## Implementations
-- [Bolt](https://chainbound.github.io/bolt-docs/)
-- [Espresso](https://docs.espressosys.com/sequencer)
-- [mev-commit](https://docs.primev.xyz/)
+- [Bolt](https://chainbound.github.io/bolt-docs/) - Bolt enables Ethereum block proposers to provide credible commitments about the contents of their blocks.
+- [Espresso](https://docs.espressosys.com/sequencer) - Espresso allows applications to sell their sequencing rights through an open marketplace. 
+- [mev-commit](https://docs.primev.xyz/) - A credible commitment network used for preconfirmations & more.
 
 ## Based Rollups
-- [KeySpace](https://docs.key.space/)
-- [Taiko](https://docs.taiko.xyz/)
-- [Spire](https://www.spire.dev/)
+- [KeySpace](https://docs.key.space/) - Keyspace is a cross-chain key/value store for smart wallet keys and other configurations.
+- [Taiko](https://docs.taiko.xyz/) - Taiko is an EVM-based rollup.
+- [Spire](https://www.spire.dev/) - Spire is a based appchain framework.
 
 ## Related Concepts
 - [Proposer-Builder Separation (PBS)](https://github.com/ethereum/builder-specs) - A related concept that separates the roles of proposers and builders in the Ethereum consensus layer.
