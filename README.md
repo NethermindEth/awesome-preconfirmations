@@ -16,6 +16,7 @@ Preconfirmations are a mechanism that allows block proposers to commit to a bloc
 ## Research and Discussion
 - [Based Preconfirmations](https://ethresear.ch/t/based-preconfirmations/17353) - The original post introduces the concept of based preconfirmations.
 - [Eth Research: Preconfirmations Tag](https://ethresear.ch/tag/preconfirmations) - A collection of research discussions and proposals related to preconfirmations on the Ethereum Research forum.
+- [Value-Capturing Based Rollups with Preconfirmations](https://collective.flashbots.net/t/value-capturing-based-rollups-with-based-preconfirmations/2884) - A protocol which allows for based rollups to capture value generated from block building with preconfirmations.
 
 ## Implementations
 - [Bolt](https://chainbound.github.io/bolt-docs/)
