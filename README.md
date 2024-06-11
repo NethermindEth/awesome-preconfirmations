@@ -5,7 +5,7 @@ A curated list of resources, research, and implementations related to preconfirm
 ## Table of Contents
 - [Introduction](#introduction)
 - [Research and Discussion](#research-and-discussion)
-- [Talks][#talks]
+- [Talks](#talks)
 - [Implementations](#implementations)
 - [Based Rollup](#based-rollups)
 - [Related Concepts](#related-concepts)
